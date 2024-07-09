@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-07-05T13:18:05.269Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-07-05T13:11:05.269Z"
+    },
+    {
+      "id": 3,
+      "description": "Faculdade",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 220,
+      "createdAt": "2024-07-05T13:11:05.269Z"
+    },
+    {
+      "description": "Parada na britagem",
+      "price": 12,
+      "category": "Viagens",
+      "type": "outcome",
+      "createdAt": "2024-07-09T11:30:34.757Z",
+      "id": 4
+    },
+    {
+      "description": "Parada na britagem",
+      "price": 12,
+      "category": "Viagens",
+      "type": "outcome",
+      "createdAt": "2024-07-09T11:30:37.125Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento ",
+      "price": 4000,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2024-07-09T11:35:50.086Z",
+      "id": 6
+    },
+    {
+      "description": "INSPEÇÃO DO OPERADOR",
+      "price": 456,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2024-07-09T11:37:18.854Z",
+      "id": 7
+    },
+    {
+      "description": "Marmita",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-07-09T12:28:57.594Z",
+      "id": 8
+    },
+    {
+      "description": "APOIO A MANUTENÇÃO",
+      "price": 200,
+      "category": "Autonomo",
+      "type": "income",
+      "createdAt": "2024-07-09T12:37:16.724Z",
+      "id": 9
+    }
+  ]
+}
